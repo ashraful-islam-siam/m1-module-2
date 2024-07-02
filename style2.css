@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: blueviolet;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+}
+
+.blog-1 {
+    background: darksalmon;
+}
